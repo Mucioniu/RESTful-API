@@ -22,5 +22,3 @@ I used Visual Studio 2019 and some packages have been intalled in the command li
 6. npm install bcrypt --save
 7. npm install jsonwebtoken --save
 
-It shouldn't affect the results, but if some errors occurs they should be in need. To start the server just simply write in command line npm start.
-I hope this program fits the requirments for the intership, I am looking forward for future emails from the company with the results and feedback
